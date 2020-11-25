@@ -16,6 +16,10 @@
   "devDependencies": {
     "firebase": "^8.0.2",
     "moment": "^2.29.1",
+    "twit": "^2.2.11",
     "typescript": "^4.0.5"
+  },
+  "peerDependencies": {
+    "twit": "^2.2.11"
   }
 }
